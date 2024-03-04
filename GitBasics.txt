@@ -4,3 +4,6 @@ Stage
 Production
 UAT
 NaveenAdded
+Automation tools
+manual
+Selenium
